@@ -1,2 +1,3 @@
 # pw12021II
-repositório para as aula de PW
+Repositório para as aulas de PWI orientadas pelo professor João Siles na ETEC Camargo Aranha
+
